@@ -6,7 +6,7 @@
 ### App Walk-through
 `TODO://` 
 
-<img src="https://imgur.com/a/K6rdQfD#cb2VsKJ" width=200><br>
+<img src="https://imgur.com/a/K6rdQfD.GIF" width=200><br>
 
 
 `TODO://` 
