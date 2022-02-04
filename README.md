@@ -1,14 +1,14 @@
 ## Pre-Work: Hello_World
 
 ### App Description
-`TODO://` This mobile application is a simple page that says "Hello from Rajvi", it has a button at the buttom that is able to change the color of that text. 
+`TODO://` This mobile application is a simple page that says "Hello from Rajvi". It has a button at the buttom that is able to change the color of that text. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://` 
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+`TODO://` 
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
