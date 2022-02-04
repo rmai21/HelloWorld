@@ -3,10 +3,10 @@
 ### App Description
 `TODO://` This mobile application is a simple page that says "Hello from Rajvi". It has a button at the buttom that is able to change the color of that text. 
 
-### App Walk-though
+### App Walk-through
 `TODO://` 
 
-<img src="https://imgur.com/a/K6rdQfD" width=200><br>
+<img src="https://imgur.com/a/K6rdQfD.gif" width=200><br>
 
 `TODO://` 
 
