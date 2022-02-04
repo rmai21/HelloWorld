@@ -1,16 +1,13 @@
 ## Pre-Work: Hello_World
 
 ### App Description
-`TODO://` This mobile application is a simple page that says "Hello from Rajvi". It has a button at the buttom that is able to change the color of that text. 
+This mobile application is a simple page that says "Hello from Rajvi". It has a button at the buttom that is able to change the color of that text. 
 
 ### App Walk-through
-`TODO://` 
 
 <img src="https://imgur.com/cb2VsKJ.gif" width=200><br>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/K6rdQfD"  ><a href="//imgur.com/a/K6rdQfD">Pre_Work_Maisuria-CodePath-Android</a></blockquote>
-
-`TODO://` 
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
