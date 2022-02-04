@@ -6,9 +6,8 @@
 ### App Walk-through
 `TODO://` 
 
-<img src="https://imgur.com/a/K6rdQfD" width=200><br>
+<img src="https://imgur.com/a/K6rdQfD#cb2VsKJ" width=200><br>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/K6rdQfD"  ><a href="//imgur.com/a/K6rdQfD">Pre_Work_Maisuria-CodePath-Android</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 `TODO://` 
 
